@@ -15,6 +15,7 @@ A [Node](https://nodejs.org/en/) module to get dimensions of any image file
 * GIF
 * ICO
 * JPEG
+* JPEG 2000
 * PNG
 * PSD
 * TIFF
