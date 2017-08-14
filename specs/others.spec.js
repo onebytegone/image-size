@@ -72,6 +72,6 @@ describe('Callback function', function () {
 
 describe('.types property', function () {
   it('should expose supported file types', function() {
-    expect(imageSize.types).to.eql(['bmp', 'cur', 'gif', 'ico', 'jpg', 'jp2', 'png', 'psd', 'svg', 'tiff', 'webp', 'dds']);
+    expect(imageSize.types).to.eql(['bmp', 'cur', 'gif', 'ico', 'jpg', 'jp2', 'jxr', 'png', 'psd', 'svg', 'tiff', 'webp', 'dds']);
   });
 });
